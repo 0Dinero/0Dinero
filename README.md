@@ -4,9 +4,13 @@ This github is mainly gonna be used for showing some of my python code and also 
 Here is some facts about me!
 
 </> - been a developer since i was 10
+
 </> - i have a coding-experience of 6 years
+
 </> - i can remembmer and write codes with these languages = (Python, C++, C#, JAVASCRIPT, LUA, HTML)
+
 </> - the first code i ever made was a discord-bot made in javascript
+
 </> - i made my first python script the 2/4/2021 - 01:00 in the night
 
 Wanna contact me?
