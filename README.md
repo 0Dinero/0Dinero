@@ -7,7 +7,7 @@ Here is some facts about me!
 
 </> - i have a coding-experience of 6 years
 
-</> - i can remembmer and write codes with these languages = (Python, C++, C#, JAVASCRIPT, LUA, HTML)
+</> - i can remembmer and write codes with these languages = (Python, C, C++, C#, JAVASCRIPT)
 
 </> - the first code i ever made was a discord-bot made in javascript
 
