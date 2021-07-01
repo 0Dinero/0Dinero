@@ -1,7 +1,7 @@
 Hey my name is "Dinero" im a software-developer with my main language as Python 
-i started with python the 2 of april because i was tired of C++, and the many bugs it had!
-This github is mainly gonna be used for showing some of my python code and also to work with my team!
-Here is some facts about me!
+the reason i learned python was because i wanted a simple and non-buggy language unlike c, c++ and c#
+however i still like and use c, c++ and c# because its great for other purposes than making software
+i use the c-languages for addons to other applications.
 
 </> - been a developer since i was 10
 
