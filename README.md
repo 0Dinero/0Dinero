@@ -7,7 +7,7 @@ i use the c-languages for addons to other applications.
 
 </> - i have a coding-experience of 6 years
 
-</> - i can remembmer and write codes with these languages = (Python, C, C++, C#, JAVASCRIPT)
+</> - i can remembmer and write codes with these languages = (Python, C++, JAVASCRIPT)
 
 </> - the first code i ever made was a discord-bot made in javascript
 
