@@ -1,7 +1,6 @@
-Hey my name is "Dinero" im a software-developer with my main language as Python 
-the reason i learned python was because i wanted a simple and non-buggy language unlike c, c++ and c#
-however i still like and use c, c++ and c# because its great for other purposes than making software
-i use the c-languages for addons to other applications.
+Hey my name is "Dinero" im a software-developer with my main language as Python
+i started learning Javascript because when i started programming i made websites and discord-bots, but i wanted
+to start making desktop-applications so then i learned python, c++ and assembly.
 
 </> - been a developer since i was 10
 
