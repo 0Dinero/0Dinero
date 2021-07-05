@@ -13,6 +13,6 @@ to start making desktop-applications so then i learned python, c++ and assembly.
 </> - i made my first python script the 2/4/2021 - 01:00 in the night
 
 Wanna contact me?
-Discord = Dinero#0420
+Discord = Dinero#6128
 
 SHOUTOUT TO www.freecodecamp.org
